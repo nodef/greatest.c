@@ -1,0 +1,23 @@
+{
+  "name": "greatest.c",
+  "version": "1.5.0",
+  "description": "A C testing library in 1 file. No dependencies, no dynamic allocation. ISC licensed; Scott Vokes (2012).",
+  "keywords": [
+    "c",
+    "library",
+    "testing",
+    "unit test",
+    "test framework",
+    "header only"
+  ],
+  "homepage": "https://github.com/nodef/greatest.c#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/greatest.c/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/greatest.c.git"
+  },
+  "license": "ISC",
+  "main": "greatest.h"
+}
